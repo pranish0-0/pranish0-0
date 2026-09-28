@@ -10,7 +10,6 @@ Currently exploring **web development, JavaScript, React, Java, and Python**, wh
 * ⚛️ React & JavaScript
 * ☕ Java
 * 🐍 Python
-* 📱 Exploring React Native
 
 ### Tech I use
 
@@ -19,7 +18,6 @@ Currently exploring **web development, JavaScript, React, Java, and Python**, wh
 ### Connect
 
 * 🌐 [Portfolio](https://pranishpoudel.com.np)
-* 💼 [LinkedIn](https://www.linkedin.com/)
-* 📂 [Projects](https://github.com/)
+* 📂 [Projects](https://github.com/pranish0-0?tab=repositories)
 
 > Learning, building, and improving — one project at a time.
