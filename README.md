@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Pranish 👋
 
-<!--
-**pranish0-0/pranish0-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an **IT undergraduate** who enjoys learning by building things.
 
-Here are some ideas to get you started:
+Currently exploring **web development, JavaScript, React, Java, and Python**, while working on personal and academic projects to strengthen my development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm learning
+
+* 🌐 Web Development
+* ⚛️ React & JavaScript
+* ☕ Java
+* 🐍 Python
+* 📱 Exploring React Native
+
+### Tech I use
+
+`Java` `Python` `JavaScript` `React` `HTML` `CSS` `Git` `GitHub`
+
+### Connect
+
+* 🌐 [Portfolio](https://pranishpoudel.com.np)
+* 💼 [LinkedIn](https://www.linkedin.com/)
+* 📂 [Projects](https://github.com/)
+
+> Learning, building, and improving — one project at a time.
