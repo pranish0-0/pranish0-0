@@ -6,10 +6,10 @@ Currently exploring **web development, JavaScript, React, Java, and Python**, wh
 
 ### What I'm learning
 
-* 🌐 Web Development
-* ⚛️ React & JavaScript
-* ☕ Java
-* 🐍 Python
+- 🌐 Web Development
+- ⚛️ React & JavaScript
+- ☕ Java
+- 🐍 Python
 
 ### Tech I use
 
@@ -17,7 +17,7 @@ Currently exploring **web development, JavaScript, React, Java, and Python**, wh
 
 ### Connect
 
-* 🌐 [Portfolio](https://pranishpoudel.com.np)
-* 📂 [Projects](https://github.com/pranish0-0?tab=repositories)
+- 🌐 [Portfolio](https://pranishpoudel.com.np)
+- 📂 [Projects](https://github.com/pranish0-0?tab=repositories)
 
 > Learning, building, and improving — one project at a time.
