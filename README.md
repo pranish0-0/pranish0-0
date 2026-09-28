@@ -10,6 +10,3 @@
 - 📫 How to reach me **pranishpoudel02@gmail.com**
  
 <h3 align="left">Connect with me:</h3>
-
- 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smarikaghimire&" alt="smarikaghimire" /></p>
